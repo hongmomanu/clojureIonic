@@ -74,7 +74,7 @@
 
 
 (defn foo [a b]
-  (* a b)) ;; CHANGED
+  (* a b))
 
 (defn arr []
 
