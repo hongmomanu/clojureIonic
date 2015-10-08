@@ -57,7 +57,7 @@
     { :title  "Cowbell" :id 6 }
   ]))
 
-  (println $scope.playlists)
+  ;;(println $scope.playlists)
 
   )
 (def.controller starter.controllers.PlaylistCtrl [$scope $stateParams]
